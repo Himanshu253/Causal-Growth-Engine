@@ -1,4 +1,4 @@
-# Causal-Growth-Engine-Variance-Reduced-A-B-Testing-Heterogeneous-Treatment-Effect-HTE-Pipeline
+# Causal Growth Engine: End-to-End Marketing Experimentation & Uplift Modeling
 
 
 ## 📑 Table of Contents
